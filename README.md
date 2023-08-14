@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-sa30&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-sa30" /> </p>
 
 
-
-<p align="left"> <a href="https://twitter.com/vee42o" target="blank"><img src="https://img.shields.io/twitter/follow/vee42o?logo=twitter&style=for-the-badge" alt="vee42o" /></a> </p>
+<p align="right"> <a href="https://twitter.com/vee42o" target="blank"><img src="https://img.shields.io/twitter/follow/vee42o?logo=twitter&style=for-the-badge" alt="vee42o" /></a> </p>
 
 - 🌱 I’m continuously expanding my knowledge **in the field of Responsible AI, philosophy of life and Business Entrepreneurship**
 
