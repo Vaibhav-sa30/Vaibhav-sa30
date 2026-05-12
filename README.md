@@ -1,9 +1,11 @@
+## Vaibhav Satish
+
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/6Hmb.gif">
 
-- 🌱 I’m all for **AI Safety**
-  
-- [CV](https://drive.google.com/file/d/1Awurh7Aj57mRm8go-LkDYTpA1b478hZZ/view?usp=sharing)
-- Working Papers: 
+#### 🌱 I’m all for **AI Safety**
+  [CV](https://drive.google.com/file/d/1Awurh7Aj57mRm8go-LkDYTpA1b478hZZ/view?usp=sharing)
+
+### Working Papers: 
 1. Auditing Algorithmic Moderation: Bias, Internal Signals, and Social Feedback in Online Comment
 2. RaiFlow: A Compliance-as-Code Framework for Operationalising AI Legal Accountability in Continuous Deployment Pipelines
 3. Privacy Preserving XAI in IoMT Devices with LLM Explanations
@@ -31,5 +33,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-sa30&" alt="vaibhav-sa30" /></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/vaibhavsatish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110" alt="vaibhavsatish" /></a><a href="https://ko-fi.com/vaibhavsatish"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="110" alt="vaibhavsatish" /></a></p><br><br>
