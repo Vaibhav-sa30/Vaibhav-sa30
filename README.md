@@ -13,7 +13,9 @@
 My other relevant interests: **Responsible AI, Agentic AI, Statistics, Entrepreneurship**
 
 Hobbies: **Art, Books (Non-Fiction), and Violin (I don't have one yet but yeah)**
+
 How do I disconnect? -> Long Walks, Mangas, Journaling, and Books (Fiction)
+
 Books I have finished: 80,000 Hours ; The Murder of Roger Ackroyd ; Purple Cow ; Limitless ; Ikigai ; Almanac of Naval Ravikant ; The Stranger ; Tuesdays with Moorie
 
 
