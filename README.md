@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/6Hmb.gif">
 
-### 🌱 I’m all for **AI Safety**
+#### 🌱 I’m all for **AI Safety**
   [cv](https://drive.google.com/file/d/1Awurh7Aj57mRm8go-LkDYTpA1b478hZZ/view?usp=sharing)
 
 ### Working Papers: 
@@ -10,11 +10,11 @@
 2. RaiFlow: A Compliance-as-Code Framework for Operationalising AI Legal Accountability in Continuous Deployment Pipelines
 3. Privacy Preserving XAI in IoMT Devices with LLM Explanations
 
-### My other relevant interests: **Responsible AI, Agentic AI, Statistics, Entrepreneurship**
+My other relevant interests: **Responsible AI, Agentic AI, Statistics, Entrepreneurship**
 
-### Hobbies: **Art, Books (Non-Fiction), and Violin (I don't have one yet but yeah)**
-### How do I disconnect? -> Long Walks, Mangas, Journaling, and Books (Fiction)
-### Books I have finished: 80,000 Hours ; The Murder of Roger Ackroyd ; Purple Cow ; Limitless ; Ikigai ; Almanac of Naval Ravikant ; The Stranger ; Tuesdays with Moorie
+Hobbies: **Art, Books (Non-Fiction), and Violin (I don't have one yet but yeah)**
+How do I disconnect? -> Long Walks, Mangas, Journaling, and Books (Fiction)
+Books I have finished: 80,000 Hours ; The Murder of Roger Ackroyd ; Purple Cow ; Limitless ; Ikigai ; Almanac of Naval Ravikant ; The Stranger ; Tuesdays with Moorie
 
 
 - I write here: [substack](https://substack.com/@vaibhavsatish) and here: [medium](https://medium.com/@vaibhavsatish9)
